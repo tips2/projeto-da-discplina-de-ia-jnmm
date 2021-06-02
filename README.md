@@ -1,10 +1,3 @@
-
-(Ainda em alteração de titulo)
-pip install python-tk
-pip install Pillow
-pip install facts
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h3 align="center">Projeto de IA - Sistema de recomendação automobilistica</h3>
