@@ -3,7 +3,8 @@
   <h3 align="center">Projeto de IA - Sistema de recomendação automobilistica</h3>
 
   <p align="center">
-    {Texto explicativo do trabalho}
+Alunos: João da Silva Muniz Neto e Mateus Monteiro Santos <br/>
+Trabalho referente a disciplina de Inteligência Artificial, do Instituto de Computação (IC) da Universidade Federal de Alagoas (UFAL) ministrada pelo professor Evandro de    Barros Costa. Trabalho com o objetivo de implementar os conhecimentos vistos em sala sobre IA.
   </p>
 </p>
 
@@ -25,8 +26,7 @@
 <!-- Inicialização do software -->
 ## Inicialização do software
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+os links abaixo contém os requisitos para instalação do software, além de necessário o uso de pip (https://pip.pypa.io/en/stable/installing/)
 
 ### Pré-requisito
 
@@ -52,4 +52,4 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    pip install Pillow
    ```
-3. A aplicação pode ser iniciada
+3. A aplicação pode ser iniciada pelo arquivo recomendaCarro.py
