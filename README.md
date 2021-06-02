@@ -11,7 +11,7 @@ Trabalho referente a disciplina de Inteligência Artificial, do Instituto de Com
 <!-- Inicialização do software -->
 ## Inicialização do software
 
-os links abaixo contém os requisitos para instalação do software, além de necessário o uso de pip (https://pip.pypa.io/en/stable/installing/)
+Os links abaixo contém os requisitos para instalação do software, além de necessário o uso de pip (https://pip.pypa.io/en/stable/installing/)
 
 ### Pré-requisito
 
