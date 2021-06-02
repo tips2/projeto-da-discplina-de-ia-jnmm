@@ -8,21 +8,6 @@ Trabalho referente a disciplina de Inteligência Artificial, do Instituto de Com
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Inicialização do software</a>
-      <ul>
-        <li><a href="#prerequisites">Pré-requisito</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-
 <!-- Inicialização do software -->
 ## Inicialização do software
 
